@@ -11,13 +11,14 @@ const MenBar = () => {
            
             <div className="col-md-10  d-flex top">
 
-
+{/* TITLE  */}
             <div className="container1 ">
   <div class="shadows"><span>A</span><span>R</span><span>A</span>
   <span>B</span><span>I</span><span>A</span><span>N</span> 
   <p className="title">EDUCATION'S</p> </div>
 </div>
 
+{/* NAVbER  */}
               <div className="menu-container d-flex navbar ">
 
                     <div className="logo-img">

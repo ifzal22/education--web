@@ -14,12 +14,14 @@ const AllService = () => {
     return (
         <div>
                     <div>
+                        {/* TITLE  */}
                 <h1 className="title">Our Servic'S</h1>
+                {/* MAP  */}
             {
                 services.map(service => (
                     
                     <div  key={service._id} className="">
-                    
+        {/* CART              */}
 <div id="container" className="cart">	
 	
 	<div   className="product-details">

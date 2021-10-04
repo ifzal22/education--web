@@ -18,7 +18,7 @@ useEffect(() => {
                 services.map(service => (
                     
                     <div  key={service._id} className="">
-                   
+    {/* CART ITEMS                 */}
 <div id="container" className="cart">	
 	
 	<div className="product-details">
